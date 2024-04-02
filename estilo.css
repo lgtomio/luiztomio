@@ -1,0 +1,17 @@
+
+/*aplicar texto alinhado ao centro em todo o conteúdo da página, com cor preta*/
+*{
+    text-align:center;color: black;
+}
+
+*{
+    text-align:center;color: black;
+}
+
+/*aplicar texto centralizao ao paragrafo, com cor preta*/
+p{
+    text-align:center;color: black;
+}
+
+
+/* as configurações aqui registradas são referenciadas e aplicas na(s) página(s), utilizando-se o comando: <link rel="stylesheet" href="estilo.css">*/
